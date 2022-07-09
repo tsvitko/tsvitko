@@ -15,7 +15,7 @@
  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 
 
-## 📖  What I am currently learning / improving on
+## 📖  What I am currently learning / improving in
 
  ![Vue](https://img.shields.io/badge/vue-%3122023.svg?style=for-the-badge&logo=v&logoColor=white)![PHP](https://img.shields.io/badge/php-2838c9.svg?style=for-the-badge&logo=php&logoColor=white)  ![Django](https://img.shields.io/badge/django-%27f26b.svg?style=for-the-badge&logo=django&logoColor=white)  
 
